@@ -1,6 +1,4 @@
 ### Oi! Sou ArthurBarbos
-
-- 🔭 Trabalhando como freelancer front-end
 - 🌱 Estudando Java para Back-end
 - 😄 Pronomes: ele/ele
    <div style="display: inline_block"><br>
